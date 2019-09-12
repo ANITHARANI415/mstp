@@ -1,4 +1,0 @@
-1.armstrong
-2.factors
-3.second largest
-4.strings
